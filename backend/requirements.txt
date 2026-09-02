@@ -1,4 +1,7 @@
-Flask==3.0.2
-Flask-Cors==4.0.0
+flask==3.0.2
+flask-cors==4.0.0
 pymongo==4.6.1
+uvicorn==0.27.1
+a2wsgi==1.10.0
+gunicorn==21.2.0
 dnspython==2.6.0
